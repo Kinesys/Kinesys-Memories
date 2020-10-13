@@ -1,0 +1,26 @@
+﻿<Window x:Class="WpfApplication1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApplication1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid Margin="0,0,-21,-63">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="0*"/>
+        </Grid.ColumnDefinitions>
+        <CheckBox x:Name="checkBox" Content="system" HorizontalAlignment="Left" Margin="10,28,0,0" VerticalAlignment="Top"/>
+        <CheckBox x:Name="checkBox1" Content="hard disk" HorizontalAlignment="Left" Margin="142,28,0,0" VerticalAlignment="Top"/>
+        <CheckBox x:Name="checkBox3" Content="ram memory" HorizontalAlignment="Left" Margin="247,28,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.067,-0.353" Width="115" Height="15"/>
+        <Button x:Name="button" Content="확인" HorizontalAlignment="Left" Margin="84,286,0,0" VerticalAlignment="Top" Width="75" RenderTransformOrigin="0.062,2.908"/>
+        <Button x:Name="button1" Content="취소" HorizontalAlignment="Left" Margin="330,286,0,0" VerticalAlignment="Top" Width="75"/>
+        <TextBox x:Name="textBox" HorizontalAlignment="Left" Height="140" Margin="23,141,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="467"/>
+        <Label x:Name="label" Content="hard disk" HorizontalAlignment="Left" Margin="10,60,0,0" VerticalAlignment="Top" Width="90" Height="30" RenderTransformOrigin="0.537,-0.045"/>
+        <Label x:Name="label1" Content="ram memory" HorizontalAlignment="Left" Margin="10,95,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.027,0.767"/>
+        <Label x:Name="label2" Content="문제없음" HorizontalAlignment="Left" Margin="84,60,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label2_Copy" Content="문제없음" HorizontalAlignment="Left" Margin="101,95,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.782,1.707"/>
+
+    </Grid>
+</Window>
