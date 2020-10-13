@@ -1,0 +1,12 @@
+c:\users\apple\documents\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+c:\users\apple\documents\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+c:\users\apple\documents\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+c:\users\apple\documents\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+c:\users\apple\documents\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\memory check.exe.config
+c:\users\apple\documents\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\memory check.exe
+c:\users\apple\documents\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\memory check.pdb
+c:\users\apple\documents\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\memory check.exe
+c:\users\apple\documents\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\memory check.pdb
+C:\Users\apple\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\memory check.exe.config
+C:\Users\apple\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\memory check.exe
+C:\Users\apple\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\memory check.pdb
